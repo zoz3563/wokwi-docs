@@ -96,7 +96,7 @@ You can also [try this example on Wokwi](https://wokwi.com/projects/294342288335
 | Name       | Description                                       | Default value |
 | ---------- | ------------------------------------------------- | ------------- |
 | pins       | Set to "i2c" for I2C configuration                | "full"        |
-| i2cAddress | I2C address (I2C configuration)                   | "0x27"        |
+| i2cAddress | I2C address (I2C configuration)                   | "0x26"        |
 | color      | The color of the text                             | "black"       |
 | background | The color of the backlight                        | "green"       |
 | variant    | Font variant: "A00" or "A02" (see [below](#font)) | "A00"         |
